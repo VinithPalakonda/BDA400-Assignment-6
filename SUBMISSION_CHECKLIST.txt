@@ -1,0 +1,47 @@
+BDA400 ASSIGNMENT 6 - FINAL SUBMISSION CHECKLIST
+
+Student: Vinith Palakonda
+Course: BDA400 - Data Science Tools and Techniques
+Assignment: Assignment 6 - Technical Analysis using R, Visualization Phase
+GitHub Repository: https://github.com/VinithPalakonda/BDA400-Assignment-6
+
+FILES INCLUDED
+--------------
+1. app.R
+2. README.md
+3. SUBMISSION_CHECKLIST.txt
+
+FINAL VERIFICATION
+------------------
+[ ] app.R opens successfully in RStudio.
+[ ] Required R packages are installed.
+[ ] The Shiny application runs without errors.
+[ ] A valid stock ticker such as AAPL loads data from Yahoo Finance.
+[ ] Date-range filtering works.
+[ ] Daily, Weekly, and Monthly time frames work.
+[ ] Line, Candlestick, and Area chart options work.
+[ ] Moving Averages can be turned on and off.
+[ ] RSI can be turned on and off.
+[ ] MACD can be turned on and off.
+[ ] Moving Average parameters can be customized.
+[ ] RSI and MACD parameters can be customized.
+[ ] Buy and Sell signals are generated using moving-average crossover rules.
+[ ] Buy/Sell annotations appear on the stock-price chart.
+[ ] Latest Signal tab displays the current trading state.
+[ ] Data Preview tab displays recent calculated values.
+[ ] GitHub repository is public.
+[ ] app.R, README.md, and SUBMISSION_CHECKLIST.txt are uploaded to GitHub.
+[ ] Repository link has been checked and opens correctly.
+
+FINAL REPOSITORY LINK
+---------------------
+https://github.com/VinithPalakonda/BDA400-Assignment-6
+
+STUDENT
+-------
+Vinith Palakonda
+
+SUBMISSION NOTE
+---------------
+The assignment repository contains the complete R Shiny dashboard implementation,
+project description, and final submission checklist.
